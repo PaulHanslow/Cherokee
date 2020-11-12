@@ -1,4 +1,4 @@
-# Cherokee Resources
+# Cherokee Type Design Resources
 This repository consists of resources related to Cherokee type design.
 
 ### Contents
