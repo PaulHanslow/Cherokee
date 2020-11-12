@@ -46,8 +46,11 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏅᏓ ᏗᏎᏍᏗ
 ᏅᏓ ᏕᎧᎸ ᎠᎴ ᏅᏓ ᏓᎧᎸᏤᎬ
 ᎤᏅᏣᏗ ᏅᏥᎸ
-ᏐᏁᎳ ᏌᏚ, ᏫᏘᏣᏯᏅ
-ᏐᏁᎳ, ᏌᏊ, ᏌᏊ ᏫᏗᏣᏯᏅ
+ᏐᏁᎳ ᏌᏚ
+ᏫᏘᏣᏯᏅ
+ᏐᏁᎳ
+ᏌᏊ
+ᏌᏊ ᏫᏗᏣᏯᏅ
 ᎠᏟᎶᏓ ᎠᏓᎵᏥᏍᏗᏍᎩ
 ᎠᏥᎶᏓ ᎠᏓᎵᏦᏍᏗᏍᎩ
 ᎠᏓᎵᏥᏍᏗᏍᎩ
@@ -297,7 +300,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᎾᏫᏍᏗ
 ᎤᏔᏃᎸᏔᏅ
 ᏧᏓᎴᎿᎢ ᏚᏓᎴᎿᎥ
-- ᎠᎨᏔᏘᏍᏗ
+ᎠᎨᏔᏘᏍᏗ
 ᎤᏖᏴᏒ
 ᎠᎯᏗᎨᎢ ᏩᏩᎯᏍᏗᎢ ᎠᏓᎾᏅ
 ᎦᏁᏟᏴᏓ
@@ -358,7 +361,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᎦᏔᏁᏍᎦᎶᎯ
 ᎤᏍᏗ ᎤᏍᏓᎦᏴᎯᏗ ᎦᏚ
 ᏧᏩ ᏧᏙᎢᏓ ᎤᎾᏔᏂᏗᎨ ᏚᏪᎦ
-ᏧᏩ, ᏧᏫ
+ᏧᏩ
+ᏧᏫ
 ᎩᏳᏆ
 ᏓᏔᎴᏌᏅ
 ᏑᏓᎵ ᏧᏅᏏᏱ
@@ -386,7 +390,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏓᏰᎵᏍᎩ
 ᏧᏄᎸᎲᏍᎦ
 ᎤᏍᎪᎸ ᎤᏍᏉᎵ
-ᏣᏩ ᎢᏳᏍᏗ, ᎤᏬᏗᎨ ᎠᏍᎪᎵ,
+ᏣᏩ ᎢᏳᏍᏗ
+ᎤᏬᏗᎨ ᎠᏍᎪᎵ
 ᏧᎦᏔᏥᏍᏓᎵ
 ᎬᏂᎨ ᎤᏍᏉᎵ
 ᏃᏯᎭ
@@ -413,7 +418,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏕᏏᎹᎵ
 ᎦᏅᏍᏓᏕᏗ
 ᎤᎵᏍᎨᏗ ᎦᏬᏂᏓ
-ᎠᎪᎯᏍᏗᏍᎩ, ᎠᏲᏍᏗᏍᎩ,
+ᎠᎪᎯᏍᏗᏍᎩ
+ᎠᏲᏍᏗᏍᎩ
 ᎤᎦᏓᏩᏨᎢ
 ᎡᎳᏗᎨ ᎧᏃᎩᏍᏗ ᎠᎴ ᎦᎸᎳᏗᎨ
 ᎪᎳᎬᏍᎩ
@@ -489,7 +495,6 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᎸᏕᎯᏓ
 ᏂᎦᏛᏁᎲ ᏂᏣᏛᎦ
 ᏣᎾᎠᏍ ᏛᎦᎾᏙᎬ ᏗᎩᏅᎦᎵᏙᏗ?
-?
 ᏥᏳ ᏧᏄᏓᎸᏗᎢ
 ᏙᏙ ᏥᏍᏆ
 ᎠᎩᏌ
@@ -537,11 +542,13 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎦᏍᎦᎸᏙᏗ
 ᏥᏌ ᏚᎴᎯᏌᏅ
 ᎠᎩᎠ
-ᏚᎷᎭᎬ, ᏚᎸᎭᎬ
-ᏚᎭᎸᎬ, ᏚᎸᎭᏴᎬ
+ᏚᎷᎭᎬ
+ᏚᎸᎭᎬ
+ᏚᎭᎸᎬ
+ᏚᎸᎭᏴᎬ
 ᏚᎸᎭᏴᎬ ᏗᎠᏓᏕᎬ ᎠᏟᎶᏍᏗ
 ᎠᏣᎢ ᎠᏣᎩ
-- ᎡᎶᎯ ᎢᏳᏛᏁᎵᏓᏍᏗ
+ᎡᎶᎯ ᎢᏳᏛᏁᎵᏓᏍᏗ
 ᎡᎧᎶᎩ
 ᏧᎬᏩᎶᏗ ᏄᏍᏗᏓᏅ
 ᏗᎪᎵᏰᏍᎩ
@@ -606,11 +613,13 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏧᏴᏢ ᎠᏁᎯ ᏴᏫ
 ᎡᏍᎩᎼ
 ᎯᎳ ᎢᎦ ᎯᎵᎠ
-ᏃᎵᏍᎬᏊ - ᎲᎳᎢᎦ ᎧᎵᏎᏥ ᏕᎦᏝ
-ᎤᎸᏌᏗ? Ꮭ ᏯᏆᏚᎵ ᏗᏣᏎᏍᏗ,
+ᏃᎵᏍᎬᏊ
+ᎲᎳᎢᎦ ᎧᎵᏎᏥ ᏕᎦᏝ
+ᎤᎸᏌᏗ Ꮭ ᏯᏆᏚᎵ ᏗᏣᏎᏍᏗ
 ᎮᎵᏍᎬᏊ
 ᎲᎦᎢᎦ ᎨᏂᏗ ᏕᎦᏝ ᎤᏁᏍᏓᎵ? ᎨᏍᏗ
-ᏯᏆᏚᎵ ᏗᏣᏎᏍᏗ, ᎮᎵᏍᎬᎢᏉ
+ᏯᏆᏚᎵ ᏗᏣᏎᏍᏗ
+ᎮᎵᏍᎬᎢᏉ
 ᏚᏩᎪᏛ ᎢᏗᏛᏁᏗ
 ᎪᏢᏍᎩ ᎦᏩᏍᏛᏂ
 ᏄᏙᎯᏳᏒ ᎢᎦᏪᏓ
@@ -643,7 +652,9 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᏍᏉᏏᏌᏏ
 ᎤᏍᏆᏄᏯᏗᏕᎦ
 ᎬᏩᎦᏘᎶᏛ ᎢᏳᏩᎦᏘ
-ᎠᏍᎦᏟᎶ, ᎠᏍᎦᏥᎶ, ᏓᏂᏍᎦᏟᎶ , ,
+ᎠᏍᎦᏟᎶ
+ᎠᏍᎦᏥᎶ
+ᏓᏂᏍᎦᏟᎶ
 ᎢᎦᏪᏓ
 ᎤᏬᏚᎯᎤᎸᏈᏍᏗ
 ᎠᏓᏅᎢᏍᏔᏅ ᏂᎨᏒᎾ
@@ -677,7 +688,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎬᏩᎦᏘ ᏛᎦᎴᏂᏍᎬ
 ᎦᎶᎨᏒᎢ
 ᎢᎾ ᏩᎪᏩᏘᏍᎩ
-ᎬᎵᎮᎵᏍᏙᏗ ᏂᎨᏒᎾ, ᏍᏓᏱ ᏯᏛᏁᏗ ,
+ᎬᎵᎮᎵᏍᏙᏗ ᏂᎨᏒᎾ
+ᏍᏓᏱ ᏯᏛᏁᏗ
 ᎠᎵᎮᎵᏤᏗ ᎡᏙᏓ ᎢᎦ
 ᎡᏙᏓ ᎢᎦ
 ᏧᏂᏙᏓ ᏓᎾᎵᎮᎵᏍᏗᏍᎬ
@@ -688,7 +700,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᎦᏏ
 ᏩᏥᎾ
 ᏚᎾᏓᎵᎪᏒ
-ᎠᏒᏂᏍᏗ, ᎢᏳᏍᏗ ᎠᏆᏓᏅᏛ , 
+ᎠᏒᏂᏍᏗ
+ᎢᏳᏍᏗ ᎠᏆᏓᏅᏛ
 ᎠᏒᏂᏍᏗ
 ᎢᏯᎳᏏᏗ
 ᎧᎵᏬᎯ ᎠᎵᎮᎵᏍᏗ
@@ -727,7 +740,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᏅᏜᏗᏍᎩ ᎤᏂᏁᎩᏍᏗ ᎠᎹ
 ᏗᏅᏓᏗᏍᎩ ᎤᏂᏁᎩᏍᏗ ᎠᎹ
 ᎦᎵᎬ ᎠᏙᎯᎢ
-( ᎠᏥᎳ ᏗᎬᏗᎯ
+ᎠᏥᎳ ᏗᎬᏗᎯ
 ᎢᎬᏱ
 ᎠᎬᏱ ᎠᏓᏅᏬᏙᏗ
 ᏅᏬᏘᎭ
@@ -802,7 +815,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᎦᏘᏅᏓ ᎣᏍᏓ ᎢᏧᏅᏗ
 ᏆᏂᏟᏂᏱ
 ᏧᏪᏘ
-ᎠᏓᎾᏅ ᎦᎸᏙᏗ ᏥᏳ, ᎠᏠᏛᎢ ,
+ᎠᏓᎾᏅ ᎦᎸᏙᏗ ᏥᏳ
+ᎠᏠᏛᎢ
 ᎠᏂᎦᎸᏣ
 ᎠᎦᎸᏥ ᎠᏤᎷᎯᏍᏗ
 ᎠᎦᎸᏥ ᎠᏤᎷᎩᏍᏗ
@@ -822,8 +836,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏃᏈᏏ ᎤᎾᏓᏓᏍᎬ
 ᏃᏈᏏ ᏅᎾᏡᎬ
 ᎧᏅᏑᎸ ᎤᏃᏢᏅᏅ ᎤᏂᎿᎥᎢ
-(10) ᏓᎶᏂ ᏅᏯ
-(9) ᎠᏓᎦ
+ᏓᎶᏂ ᏅᏯ
+ᎠᏓᎦ
 ᎠᏁᏦᏗ
 ᏧᎾᏁᎶᏙᏗ
 ᏓᏅᎦ
@@ -832,18 +846,18 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏙᏳᏍᏗ ᏥᏫᏒᎥᏍᎪ ᏣᏫᏒᏅᎢ?
 ᎡᏣᏚᎬ ᎠᏃᏣᎴᏍᎬ
 ᎡᏣᏚᎬ ᎠᏃᏣᎳᎩᏍᎬ
-( ᎤᏔᏃᎸᏓ
+ᎤᏔᏃᎸᏓ
 ᎪᎢ ᏧᏂᏟᏍᏗᎢ
 ᎦᏯᎸᏙᏗ
 ᏔᎷᎩᏍᎩᎠᎭ ᏗᏯᎴᏑᎶ
 ᏧᏚᎪᏛᏅ ᏂᏣᎵᏍᏙᏗ
 ᏧᎾᏓᎳᏅᎢ
 ᏂᎦᎥ ᎠᏓᏃᎯᏎᎯ
-, ᎠᏍᎦᏰᎬᏍᏛ
+ᎠᏍᎦᏰᎬᏍᏛ
 ᏧᎾᏁᎶᏔᏅᏒ
 ᎤᎾᏓᏰᎶᏒ ᎠᎦᏎᏍᏔᏅ
 ᏦᏃᎩᏓ ᎢᏳᏍᏗ
-( ᏧᏂᏍᎪᏯ
+ᏧᏂᏍᎪᏯ
 ᎠᏓᏕᏲᎲᏍᎩ ᎡᎶᎯ
 ᎡᎶᎯ ᎤᏙᏢᏓᏅ ᎠᎪᎵᏰᏍᎩ
 ᎡᎶᎯ ᎤᏙᏒᏓᏅ ᎠᎪᎵᏰᏍᎩ
@@ -858,7 +872,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏩᏓᎷᏯᏛ
 ᏚᏩᏓᎷᏯᏛ
 ᎤᏬᎳᏕᏍᏙᏗ
-( ᎤᎦᏔ ᎤᏄᎪᎢᏍᏗ
+ᎤᎦᏔ ᎤᏄᎪᎢᏍᏗ
 ᎤᏱᎦᎳ ᏗᎾᏓᏁᏍᎩ ᎤᏔᎾ
 ᏚᏩᏣᎸ ᏗᏕᏯᏙᏗᏍᎩ
 ᏗᎦᎵᏍᏚᎩᏍᎩ
@@ -981,7 +995,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎢᎦ ᎢᎬᏁ 
 ᎤᏩᎫᏯᏍᏗ
 ᎬᏍᎦᎸᏗ
-ᎪᏪᎳᏅᎯ ᏗᎦᎪᎵᏰᏗ ᏂᎨᏒᎾ,
+ᎪᏪᎳᏅᎯ ᏗᎦᎪᎵᏰᏗ ᏂᎨᏒᎾ
 ᏧᏦᏍᏗ
 ᎦᎸᎳᏗ ᏧᎾᏕᎶᏆᏍᏗ
 ᎦᎸᎳᏗᎨᏍᏗ ᏗᏕᎶᏆᏍᏗ
@@ -997,7 +1011,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏪᏘ ᏚᏙᏢᏒ
 ᏄᎵᏍᏔᏂᏙᎸᎢ
 ᏗᏍᏆᎳᏔ Ꮟ ᏥᏳ ᏄᏲᎱᏎᎸᎾ ᎠᎢᏒᎢ
-ᎤᏍᏕᎵᏍᎩ ᏫᏌᏩᏙᏴ.
+ᎤᏍᏕᎵᏍᎩ ᏫᏌᏩᏙᏴ
 ᎭᏳᏩᏒ ᎡᏉᏂ ᏄᏪᏴᎢ
 ᎦᎶᎪᏗ ᎦᎶᎪᏙᏗ
 ᏏᏆ ᎠᏂᎩᏍᎬᎢ (ᎠᏅᏣᏢᏍᎬ)
@@ -1027,14 +1041,14 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᎹ ᏗᎵᏟᏍᎬ
 ᎦᎵᏦᏕ ᎠᏂᏅᎦᎸᎯᏙ
 ᎤᏃᎴ ᎤᏌᎳᏛ ᏥᏳ
-ᎦᏙ ᏣᏛᏁᎴ ᏣᏬᎯᎵᏴᏎ? ?
+ᎦᏙ ᏣᏛᏁᎴ ᏣᏬᎯᎵᏴᏎ
 ᎯᎳᎪ
 ᎯᎳ ᎢᎦ ᎭᎳᎢᎦ
 ᎯᎳ ᎢᎦ ᏗᏎᏍᏗ ᏚᏝᏅᏓ
 ᎯᎳ ᎢᎦ ᏗᏎᏍᏗ ᏚᏢᏅᏓ
 ᎯᎳ ᎢᎦ ᏕᏣᏚᎵ
-ᎲᎦᎢᎦ ᏕᏣᏚᎵ ( )
-ᎲᎦᎢᏯᏂ ᏕᏣᏚᎵ ( )
+ᎲᎦᎢᎦ ᏕᏣᏚᎵ
+ᎲᎦᎢᏯᏂ ᏕᏣᏚᎵ
 ᎯᎳ ᎢᎦ ᎢᏍᎪᎯᏧᏆ ᏓᏎᏍᏛ
 ᎯᎳ ᎢᎦ ᏍᎪᎯᎭ ᏓᏎᏍᏗ
 ᎯᎳ ᎢᎦ ᎢᏯᎦᏴᎵ ᏓᏎᏍᏗ
@@ -1227,14 +1241,14 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏍᏆᎳᏭ ᏱᎬᏁᎸ ᎯᎸᏍᎩ
 ᏱᎧᏁᏨᎢ
 ᏄᎾ ᎦᎵᏙᎯ
-ᎠᏍᎪᏅᏍᏗ, ᎠᏍᎪᏂᎭ,
+ᎠᏍᎪᏅᏍᏗ
+ᎠᏍᎪᏂᎭ
 ᎬᏩᏍᎪᏂᎲᎢ
 ᎠᏥᎶᎥ ᎠᏍᏓᏩᏛᏍᏗ
 ᎠᎶᎥ ᎠᏍᏓᏩᏛᏍᏗ
 ᎦᏙ ᎦᏂᏴᏙᏗ
 ᎤᏲ ᎤᎾᏗᏅᏗ
 ᎦᏬᏂᎯᏍᏗ
-Ꮃ57 57
 ᎤᏏᏕᎾ ᎠᏍᏗ
 ᎠᎯᏓᏍᏗ ᎠᎦᏙᎲᏒ
 ᎠᎯᏓᏍᏗ ᎠᎦᏙᎥᎯᏍᏗ ᎦᎶᏙᏗ
@@ -1250,7 +1264,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎣᏂ ᎦᏁᏟᏴᏍᏗ
 ᎠᏂᎶᎻ ᎤᏂᏬᏂᎯᏍᏗ
 ᏓᏍᏓᏅᏅ ᏚᏓᏕᏯᏍᏛ ᎡᎶᎯ
-ᎣᏂ ᏗᏯᎢ, ᎣᏂᏱᎨᎢ ᎤᎾᏓᏅᏘ ,
+ᎣᏂ ᏗᏯᎢ
+ᎣᏂᏱᎨᎢ ᎤᎾᏓᏅᏘ
 ᎤᏂᎩᏍᏗ ᎠᏰᏍᏓᎥᎢ
 ᏅᏯ ᎤᏩᎾᏬᏒ
 ᏗᎧᎿᏩᏛᏍᏗ ᎠᏂᏌᏙᏴᏍᎩ
@@ -1470,7 +1485,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᎷᎩ
 ᏥᏍᎪᏴ
 ᏩᏐᎵ
-(3) ᏗᏓᏗᎬᎯ
+ᏗᏓᏗᎬᎯ
 ᏩᏐᎵ ᏗᏖᏍᏙᏗ
 ᎡᏥ ᎠᎵᎮᎵᏤᏗ ᎢᎦ
 ᎠᎵᏖᎸᎲᏍᎬ ᎣᏢᏍᏗᏍᎩ
@@ -1496,7 +1511,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᏟᎸᏛ
 ᏙᎩᏏ
 ᎤᏪᏘ ᎠᏍᏆᏂᎪᏛ
-ᎠᏟᎶᏓ ᎧᏃᎩᏍᏗ , ᎠᏥᎶᏗ
+ᎠᏟᎶᏓ ᎧᏃᎩᏍᏗ
+ᎠᏥᎶᏗ
 ᎧᏃᎩᏍᏗ
 ᏯᎾᏌ ᎡᏆ
 ᏓᎬᎾ
@@ -1510,7 +1526,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏦᏍᏓᏓᏅ
 ᎥᎩᏙ ᏌᏊ ᎡᎯ ᏦᏍᏓᏓᏅᏟ
 ᏌᏊ ᎡᎯ ᎥᎩᏙ
-ᏌᏊ ᎡᎯ ᎥᎩᏙ ᏦᏍᏓᏟᏅᏥ- 
+ᏌᏊ ᎡᎯ ᎥᎩᏙ ᏦᏍᏓᏟᏅᏥ
 ᏌᏊ ᎠᎩᏙ
 ᎡᎭᎿ
 ᎠᏇᏥ ᎠᎨᏳᏣ
@@ -1558,8 +1574,9 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎥᏈᎾ
 ᎥᏈᎸᏓ
 ᏔᎵᏁ ᎠᏇᏥ
-ᎪᎱᏍᏗ ᏦᏮᏂ ᏛᎦᎾᏢᏍᎬᎢ,
-ᏨᎨᏳᎯ, ᏦᎵᎢ
+ᎪᎱᏍᏗ ᏦᏮᏂ ᏛᎦᎾᏢᏍᎬᎢ
+ᏨᎨᏳᎯ
+ᏦᎵᎢ
 ᏁᏆᏚ
 ᎠᎾᎦᎵᏗᏍᎩ
 ᎠᎾᎦᎵᏗᏍᎩ ᏗᏃᏢᏍᎩ
@@ -1596,7 +1613,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏕᎨᏒ
 ᎤᏓᎴᏨ
 ᏗᏎᏍᏗ ᏗᎪᏪᎶᏗᏱ
-ᏓᎴᏴᏍᎩ, ᏓᎴᏴᏗᏍᎩ
+ᏓᎴᏴᏍᎩ
+ᏓᎴᏴᏗᏍᎩ
 ᏗᎪᏍᏙᏗ
 ᎾᏊ ᏣᏑᎳᎪᏨ
 ᎠᏓᎻᏗᏍᏡᏴ ᎠᏓᎻᏗᎵᏍᏗᎷᏴ
@@ -1647,14 +1665,18 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᎰᎵ ᏄᏍᏗᏓᏅ
 ᏗᎠᏓᎶᏂᎨᎢ
 ᎠᏕᏲᎲ
-ᏗᏂᏃᎩᏍᎩ, ᏗᏂᏃᎩᏍᏗᏍᎩ
+ᏗᏂᏃᎩᏍᎩ
+ᏗᏂᏃᎩᏍᏗᏍᎩ
 ᏅᏯ ᏗᎵᏍᏓᏅ
 ᎤᎵᏍᎨᏓ ᏧᎵᏑᏰᏓ ᏅᏯ
 ᎬᏃᏗ
 ᏂᏚᎵᎪᏛᎾ
 ᎦᏃᎭᎵᏙᎯ
 ᎤᎾᏓᏂᏯᏛ ᏗᏂᏲᎵ
-ᏗᏟᎸᏗ, ᏧᎪᎳ, ᏙᏫᏢ, ᏧᏩᏚᎾ
+ᏗᏟᎸᏗ
+ᏧᎪᎳ
+ᏙᏫᏢ
+ᏧᏩᏚᎾ
 ᏧᏂᎦᏛᏅᏗ ᏗᎦᎸᏫᏍᏓᏁᏗ
 ᏧᎪᎳ ᏓᏩᎾᎦᎶᎬ
 ᎬᎾ ᎤᎳᎾ
@@ -1664,7 +1686,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏍᏆᏂᎪᏔᏅᎲᏍᏗ
 ᎠᏯᏆᎶᎢ
 ᎤᏪᏥᏳᏍᏗ
-ᎦᏬᎯᎵᏙᏗ, ᎦᏬᎯᎶᏍᎩ ᎠᏗᏅᏓ
+ᎦᏬᎯᎵᏙᏗ
+ᎦᏬᎯᎶᏍᎩ ᎠᏗᏅᏓ
 ᎠᏂᎩᏍᏙᏗ ᎠᏈᏙᏗ
 ᎠᎵᏗᎩᏍᏙᏗ ᎠᏈᏙᏗ
 ᏩᏓᏴᎳᏛᏍᎩ
@@ -1676,13 +1699,15 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎧᏬᎳᏕᏍᏗ ᎦᎵᏦᏛ
 ᏗᎦᏘᎸᏓ ᎢᎦᏪᏗ
 ᏓᎬᎾ
-ᎩᎦᎨ ᏧᎦᏆᎵ, ᎩᎦᎨ ᏗᎵᏆᎵᎢ
+ᎩᎦᎨ ᏧᎦᏆᎵ
+ᎩᎦᎨ ᏗᎵᏆᎵᎢ
 ᎬᏂᎨ ᎤᏍᎪᎸ ᏧᎦᏆᎵ
 ᏧᏥᎣᏍᏗ ᎦᏐᎯ
 ᏗᏓᏅᎢᏍᏔᏅᏓ ᎦᏐᎯᎢ
 ᎩᎦᎨ ᏗᎦᏅᏌᏗ
 ᏆᎸᏱ ᏓᏫᏍᎦᎨ
-ᏧᏓ ᏗᎩᏓ ᎦᏐᎯ , ᎤᎦᏣᏅᎪᏥᏓ
+ᏧᏓ ᏗᎩᏓ ᎦᏐᎯ
+ᎤᎦᏣᏅᎪᏥᏓ
 ᎦᏐᎯ
 ᏭᏕᎵᎬ ᎠᎺᏉ
 ᎠᎵᏏᏙ ᏐᏈᎵ
@@ -1750,7 +1775,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏯᏙᎵᏍᏗ
 ᎢᎦᏛᎢ
 ᎢᎦᎢ ᎤᏃᏍᏗ
-(3) ᎢᏯᏓᏅᏖᏗ ᎢᎦᎢ
+ᎢᏯᏓᏅᏖᏗ ᎢᎦᎢ
 ᎥᎪᎵᏥᎢᎲ
 ᎥᏓᏅᏖᏍᎬ
 ᏨᎦᏔᎰ
@@ -1789,7 +1814,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏆᏍᏙ
 ᏗᏆᏍᏙ
 ᏓᎬᎾ
-- ᎤᏓᏇᏄᎩᏍᏙᏗ ᎤᏂᏴᏙᏗ
+ᎤᏓᏇᏄᎩᏍᏙᏗ ᎤᏂᏴᏙᏗ
 ᏃᏥ ᏧᏣᏲᏍᏗ ᏃᏥ ᏧᏥᏲᏍᏗ
 ᏧᏣᏲᏍᏗ ᏒᎦᏔ
 ᎩᎦᎨ ᎠᎧᏅ
@@ -1824,7 +1849,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎪᏒᏍᎩ
 ᏧᎦᏥᎴᏍᏗ ᎪᏢᏍᎩ
 ᏧᎦᏣᎴᏍᏗ
-ᎧᎮ ᏗᎦᏅᏙᎩ, ᎤᏛᎵᏍᏙᏗ ᎧᏂᎩᏓ ,
+ᎧᎮ ᏗᎦᏅᏙᎩ
+ᎤᏛᎵᏍᏙᏗ ᎧᏂᎩᏓ
 ᏗᎦᏂᏴᏙᏗ
 ᎦᎸᎶᎯ ᏭᎾᏌᏁᏗ
 ᎤᎪᏗᏗ ᎠᏓᏗᏓ
@@ -1880,14 +1906,16 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎢᎪᏛ ᎡᎯ ᎩᏟ
 ᎯᎸᎯᏳᎯ ᏥᎨᏒᎢ
 ᏗᏓᎴᏂᏍᎬ
-ᏄᏟᏍᏗᏴᏭ, ᎦᏅᏍᏗ,
-ᏄᏟᏍᏛᏭ, ᎩᎳᏫᏴ
+ᏄᏟᏍᏗᏴᏭ
+ᎦᏅᏍᏗ
+ᏄᏟᏍᏛᏭ
+ᎩᎳᏫᏴ
 ᎦᏃᎵᏙᎯ
 ᎠᏰᎸᏗ
 ᎠᏴᏫ ᎢᎬᏱ ᎢᏱᎬᏂᏙᏗ
 ᎪᏪᎵ ᎠᏍᏕᎵᏍᎩ
 ᎾᏛᏁᎲ ᎩᎳᏊ
-’ ᎤᎬᏫᏳᎯ ᎢᎦ
+ᎤᎬᏫᏳᎯ ᎢᎦ
 ᎠᏍᎦᏅᎢᏍᏗ ᎦᏅᏍᏙᏍᎩ
 ᎠᏥᏃᎵᏙᎯ
 ᎠᎴᏂᏍᎬ
@@ -1911,7 +1939,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎪᏙᏗ ᎠᏔᏃᎴᎩ
 ᎠᎯᏓ ᎢᏗᎦᏛᎢ ᏗᏎᏍᏗ Ꮭ ᏱᏩᏘᏯᎠ
 ᎠᏓᏩᏂᎦᎵᏍᏙᏗ
-ᏗᎦᏎᏍᏙᏗ, ᎤᏓᏍᏕᎸᏗ ,
+ᏗᎦᏎᏍᏙᏗ, ᎤᏓᏍᏕᎸᏗ
 ᎠᎵᏍᎦᏍᏙᏗ
 ᎠᏓᎵᏥᏍᏗᏍᎩ
 ᎬᏂᏓ ᎠᏃᏢᏍᎩ
@@ -1947,13 +1975,13 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏥᎸᏅ
 ᏫᏕᏋ ᎢᏯ ᏌᏊ ᏯᎦᏴᎵ ᎤᎶᎡᏍᏗ
 ᏂᏚᏓᎨᏐᎢ!
-ᎠᏓᏛᏍᎩᏍ ᎢᏯ? ?
+ᎠᏓᏛᏍᎩᏍ ᎢᏯ
 ᎧᏁᏨ ᏗᎦᎴᏅᏗᏍᎩ
 ᎤᏕᏂᏕᏅ
 ᎤᏕᎯᏌᏂᏕᎾ
 ᎠᏕᎭᎷᎨ
 ᎠᏕᎳ ᏗᎦᎶᏙᏗ
-- ᎥᏰᎸ ᎠᏌᎳᏙᏗ
+ᎥᏰᎸ ᎠᏌᎳᏙᏗ
 ᏗᎦᏓᏕᏍᏗ
 ᏦᎢ ᏧᏅᏏᏯ ᏗᎪᏍᏓᏱ
 ᏓᎿᏩ ᎠᎵᏍᎩᏍᏗᏗᎪᏪᎳᏅ
@@ -1978,7 +2006,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏄᏪᏨᏒᎢ
 ᏗᏓᏓᎴᏙᏗ
 ᎦᎶᏄᎮᏛ ᎦᎶᏅᎮᏛ
-- ᎦᏐᏆᎸ ᎪᏍᏛᏂᏍᏙᏗ
+ᎦᏐᏆᎸ ᎪᏍᏛᏂᏍᏙᏗ
 ᎤᏙᎸᎢᏍᏗ ᎬᏂᎦᎵᏍᏗ
 ᏗᎦᎴᏴᏙᏙᏗ
 ᏧᎾᏓᏟᎶᏍᏙᏗ ᎠᏱᎸᏍᏗ
@@ -1991,7 +2019,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎾᎿᎢᏴ ᏭᎵᏍᏛᎢ
 ᎠᏌᏍᏛ
 ᎠᎫᏴᏙᏗ
-(3) ᎠᏎᏍᏛ
+ᎠᏎᏍᏛ
 ᎤᎦᏌᎴᏍᎩ
 ᎤᏁᏩᎵᏗᏍᎬ
 ᎠᏥᎳ ᎤᏓᏍᎦᏘ
@@ -2022,7 +2050,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᎾᏙᏢᎯᏐᏗᎢ
 ᎤᎾᎵᏛ
 ᎾᏍᎩ ᎣᏏ ᎠᏰᎸᏗ
-( ᏩᏈᏗᎢ
+ᏩᏈᏗᎢ
 ᏫᏗᎪᏪᎶᏗ
 ᎤᎾᎴᏅᎯᏐᏗ
 ᏔᎵᏁ ᎤᎾᏨᏅ
@@ -2053,7 +2081,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᎦᏙᎵ ᎭᏫᏂ ᏗᏟᎶᏍᏗᏍᎩ
 ᏂᏧᎵᏍᏔᏅᏍᏔᏅ
 ᏥᎰᏪᎸᎩ ᎦᎶᏍᎩ ᎧᏁᏨ
-. ᎦᏬᎯᎶᏍᎩ
+ᎦᏬᎯᎶᏍᎩ
 ᏮᎪᏪᎶᏗᏮᎪᏪᎶᏂᏐᏗ
 ᎳᏃᏏᎳ
 ᎪᏴᏐᎵ ᎤᎷᎩ
@@ -2111,7 +2139,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏃᏯᏅᏯ
 ᎪᎱᏍᏗ ᎡᎵᏍᎩ ᏙᏍᏊ
 ᏱᎦᎵᏍᏔᏅᏍᎩ
-- ᎦᎸᎶ ᏗᎾᏕᏯᎵᏙᎯ
+ᎦᎸᎶ ᏗᎾᏕᏯᎵᏙᎯ
 ᏌᏓᏂ
 ᎠᏲᏍᏗᏍᎬ ᎠᎯᏯᏍᏗ
 ᎠᏓᏃᎴ
@@ -2128,7 +2156,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏗᏲᏝᏅᎯ
 ᎤᏗᏆᎸᏕᏱᏓ ᎠᏍᏓᏱᏗᏍᏙᏗ
 ᏧᏗᏆᎸᏕᏱᏓ ᎠᏍᏓᏱᏗᎩᏍᏙᏗ
-(3) ᎦᏍᎦᎸᏪᏍᏙᏗ ᎠᏍᏓᏱᏓᏍᏙᏗ
+ᎦᏍᎦᎸᏪᏍᏙᏗ ᎠᏍᏓᏱᏓᏍᏙᏗ
 ᎤᏗᏆᎸᏕᏯᏓ ᏗᏍᏓᏱᏗᏍᏗ
 ᏧᏗᏆᎸᏕᏱᏓ ᏧᏚᎸᏕᏱᏓ
 ᎠᏟᎶᏍᏔᏅ
@@ -2146,7 +2174,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᎺᎦᎷ
 ᏗᏏᏫᏍᎩᏗᏏᏛᏂ
 ᎠᏐᎠᏍᏙᏗ
-(3) ᎠᎹᏯ ᎡᎯ ᏗᏑᏫᏍᎩ
+ᎠᎹᏯ ᎡᎯ ᏗᏑᏫᏍᎩ
 ᎦᏰᏫᏒᎥᏍᎩ
 ᎠᏱᏍᏗ
 ᎠᏱᏍᏗ ᏂᏚᎵᏍᏔᏅ
@@ -2215,7 +2243,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏧᏩᏚᏃ
 ᎠᏓᏯᏍᏗ
 ᏓᏍᏓᏅᏅᎢ
-ᎠᏓᏃᎯᏎᎯ, ᎠᏓᏎᎮᎯ ,
+ᎠᏓᏃᎯᏎᎯ
+ᎠᏓᏎᎮᎯ
 ᏗᎦᎴ ᏧᏲᎯ
 ᎤᏁᎦᎠᏕᎳ ᎪᏢᏗᏍᎩ
 ᎤᏁᎦᎠᏕᎳ ᎪᏒᏗᏍᎩ
@@ -2224,7 +2253,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏥᏳ ᎦᏃᏴᎦ ᏥᏳ ᎦᏃᏳᎦ
 ᏚᎦᏔᏅᏪᎥ
 ᎦᎾᏌᏁᏍᏙᏗ
-- ᏗᎵᏍᏛᏡᏍᏗ
+ᏗᎵᏍᏛᏡᏍᏗ
 ᏧᏂᎸᏫᏍᏓᏁᏗ ᎠᏓᏅᏖᎵᏙ
 ᎠᏯᏔᎾ ᏗᎦᏆᏘ
 ᎠᏯᏖᎾ ᏗᎦᏆᏗ ᏧᎾᎩᎸᏙᏗ
@@ -2238,7 +2267,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎧᎾᎷᏛ(Ꭲ)
 ᏂᎦᎵᏍᏗᎲᏊ
 ᎤᏂᏍᎦᏃᎵ ᏲᎾ ᎢᏳᏍᏗ
-ᏍᎪᎩᎾᏗ - ᏙᏍᎩᎾᏗ
+ᏍᎪᎩᎾᏗ
+ᏙᏍᎩᎾᏗ
 ᎤᏃᎦ
 ᎤᏃᏔᏩᎸᏯᎩ
 ᎤᏅᏔᏆᎵ
@@ -2285,7 +2315,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎦᎸᎳᏗ ᎡᏙ ᏧᎿᏬᏍᏗ
 ᏚᏥᏍᏓᎷᎩᏍᎬ
 ᏥᏍᏆᏯ
-ᎢᏥᏁᎦ, ᎢᏥᏁᎨᏍᏗ ,
+ᎢᏥᏁᎦ
+ᎢᏥᏁᎨᏍᏗ
 ᎤᏤᎵᏛ
 ᎤᏆᎸᏛ
 ᎤᏤᎵᏛᎭ
@@ -2303,8 +2334,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏬᎳᏕᏍᏙᏗ
 ᎤᎸᏪᏍᏔᏅ
 ᎠᏓᎸᏪᏍᏗ
-(3) ᎤᏓᏅᏖᏲᎸ
-(4) ᎠᏓᏅᏖᏲᎸ
+ᎤᏓᏅᏖᏲᎸ
+ᎠᏓᏅᏖᏲᎸ
 ᎠᏓᏅᏙ
 ᏩᏍᏚᏟᏥᎯ
 ᎠᎹ ᎠᎵᎪᏗᏍᎬ
@@ -2320,7 +2351,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏔᏜᎦᎶᎲᎦ
 ᏔᏣᎦᎶᎲᎦ
 ᏧᏟᏈᏗ ᏧᏳᏈᏓ
-( ᎪᎨᏱ 
+ᎪᎨᏱ 
 ᏕᎦᏅᎪᎬ
 ᎪᎨᏱ ᎤᏂᏲᎯᏍᏛ
 ᏚᏱᏢ
@@ -2419,7 +2450,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᎵ
 ᎦᏅᏍᎨ ᎠᏳᎢᏁᎩ
 ᎠᏓᏁᏐᏚᏙᏗᏱ
-ᎠᏓᏁᏐᎳᏕᏗᏱ, ᎠᏓᏖᎸᏅᏍᏗ ,
+ᎠᏓᏁᏐᎳᏕᏗᏱ
+ᎠᏓᏖᎸᏅᏍᏗ
 ᎦᏙ ᎭᏛᏁᎰ ᎠᏓᏁᏐᎳᏕᏗᎢ? ᎦᏙ
 ᎭᏛᏁᎰ ᎠᏕᎸᏂᏍ?
 ᏗᏖᎸᏂᎦ ᏘᏁᏐᎸᏛᎦ
@@ -2430,10 +2462,11 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏧᏠᏯ ᎤᏐᏱ
 ᎦᏟᏌᏅ ᏓᏟᎶᏍᏛ
 ᎦᏟᏌᏅ ᏗᏥᎶᏍᏔᏅ
-ᏗᏕᎵᏙ ᏗᏝᎲᎦ , ᏗᏕᎵᏙ ᏘᏌᎲᎦ
+ᏗᏕᎵᏙ ᏗᏝᎲᎦ
+ᏗᏕᎵᏙ ᏘᏌᎲᎦ
 ᎤᏓᏅᏍᏛ
 ᏗᎢᏍᎦᏕᏱ
-( ᏗᏓᎶᏕᏍᏗᏍᎩ
+ᏗᏓᎶᏕᏍᏗᏍᎩ
 ᏓᎵᏆ
 ᏓᎶᎥᏗᏍᎩ
 ᏗᎦᏬᏂᏍᎩ ᏧᎦᎶᎦ
@@ -2454,9 +2487,11 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏍᎪᏯ ᏗᏃᎷᏩᏘᏍᎩ
 ᎤᎦᎶᎬ
 ᏗᎵᎪᏗ ᏗᎦᎸᏫᏍᏓᏁᏗ
-ᎦᏣᎦᎸᏓ ᎠᏌᏃ (ᏅᏓᏣᎦᎸᏓ)
+ᎦᏣᎦᎸᏓ ᎠᏌᏃ 
+ᏅᏓᏣᎦᎸᏓ
 ᎤᏦᏍᏗ ᏂᎬᎿᏅ ᎪᏪᎸ
-ᎠᎦᏔᎿᎢᎠᎧᎾᏗ (ᏧᎸᏫᏍᏓᏁ)
+ᎠᎦᏔᎿᎢᎠᎧᎾᏗ 
+ᏧᎸᏫᏍᏓᏁ
 ᏄᏍᏛ ᎢᎬᏁᏗ
 ᎢᎾ ᏫᏓᏟᏃᎮᏗ ᏣᏴᏍᏙᏗ ᎧᏅᏑᎸ
 ᎠᎾᎦᎳᏔᏅ
@@ -2484,9 +2519,10 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏍᏓᎠ
 ᎣᏂᏱᎨ ᎤᎾᏓᏅᏘ ᏧᏃᏪᎳᏅ
 ᏓᎾᏓᏍᏕᎵᏴᎡᏗ ᏗᎾᏕᏍᏕᎵᏍᎩ
-(ᎼᎹᏂ)
-ᎠᏓᏁᎫᏗᏍᎩ ᎠᏓᏁᎸ? ?
-( ᏄᏍᏗᏓᏅ, ᏂᏚᏓᎴᏒ ,
+ᎼᎹᏂ
+ᎠᏓᏁᎫᏗᏍᎩ ᎠᏓᏁᎸ
+ᏄᏍᏗᏓᏅ
+ᏂᏚᏓᎴᏒ
 ᎾᏂᎥ ᏴᏫ ᎪᏪᎵ ᏧᏂᎪᎵᏰᏗ
 ᎪᎷᏩᏛᏘ ᎪᎸᏅᏓ
 ᎠᏓᏅᏬᏙᏗ ᎤᎾᏓᏍᏕᎸᏗ
@@ -2560,7 +2596,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏕᏯᏙᏗ ᎨᏒ
 ᏫᎦᏬᏥᎯᎲ
 ᏦᏧᎵᎦᏔ
-ᎦᎶᏄᎮᎸ ᎠᎴ ᏗᏁᏗ , ᎦᎶᏄᎮᎸ
+ᎦᎶᏄᎮᎸ ᎠᎴ ᏗᏁᏗ
+ᎦᎶᏄᎮᎸ
 ᎠᎴ ᏗᏁᎸ
 ᎾᎥ, ᎠᏰᏟ, ᎢᎾ ᏗᎪᏩᏛᏙᏗ
 ᎢᏯᏦᎠᏗᏅᏛ
@@ -2629,13 +2666,14 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎤᏃᎴ ᎫᏖᏍᏙᏗ
 ᎤᏃᎴ ᎫᏗᎦᎾᏁᎩᏍᏙᏗ
 ᏩᏌᎹᏗᏴ ᏧᏍᏆᏛᎢ
-’ ᏧᎾᏓᎸᏉᏗ ᎢᎦ
+ᏧᎾᏓᎸᏉᏗ ᎢᎦ
 ᏧᎬᏩᎶᏗ ᏱᎩ
 ᎤᏂᏣᏘ ᎤᎾᏦᏗ
 ᏂᎧᏴᏌᏛᎾ ᏙᏆᎴᎷ
 ᏩᏁᎳ
 ᎤᏢᏉᏗ
-ᏗᏓᏁᏟᏴᏍᎩ ᏗᏎᏍᏗ, ᏗᏎᏍᏗ
+ᏗᏓᏁᏟᏴᏍᎩ ᏗᏎᏍᏗ
+ᏗᏎᏍᏗ
 ᎤᎬᏩᏟ ᏗᎦᏁᏟᏴᏍᏗ
 ᎠᎳᏍᏕᏓᎵᏴ
 ᎠᏓᏁᏟᏴᎠ
@@ -2672,7 +2710,7 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᏩᎪᏩᏛᏗ ᎤᏂᎪᏛᎲᏍᎪ
 ᏄᏛᎾᏕᎬ ᎠᏰᎸ ᎧᏃᎮᏍᎩ
 ᎥᏰᎸ ᎤᎵᏍᏕᎸᏙᏗ
-ᎠᏲᏍᏙᏗ, ᎠᏲᏍᏓᏁᏗ ,
+ᎠᏲᏍᏙᏗ, ᎠᏲᏍᏓᏁᏗ
 ᎤᎾᏕᎵᏆᏍᏗ
 ᎠᏥᎳ ᎠᏔᏍᎩᏍᎩᎠᏦᎳᎩᏍᎩ
 ᎤᎪᏗ ᎦᏬᏂᏒ
@@ -2686,7 +2724,8 @@ Cherokee word list to be used in the Word-o-mat plugin for Glyphs and Robofont. 
 ᎠᏍᏆᏚᎸ
 ᏩᎸᏭᏍ
 ᏗᎧᏅᏩᏛᏍᏗ ᎠᏕᎳ ᏗᎦᏅᏨ
-ᎪᎱᏍᏗ ᎠᏗ, ᎠᏍᏆᏂᎪᏙᏗ
+ᎪᎱᏍᏗ ᎠᏗ
+ᎠᏍᏆᏂᎪᏙᏗ
 ᎠᏓᏕᏯᏔᎲᏍᎩ ᎠᏓᏕᏯᏖᏙᏗ
 ᏗᏟᎯ
 ᏓᎿᏩ ᏗᏟᎯ
